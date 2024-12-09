@@ -83,8 +83,8 @@ Un modèle utilisant le Machine Learning pour prévoir la composition d'une équ
 ---
 
 ## 📈 **Statistiques GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelfattah-hayeb&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfattah-hayeb&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelfattahHayeb&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelfattahHayeb&layout=compact&theme=radical)
 
 ---
 
